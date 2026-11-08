@@ -1,0 +1,6 @@
+{
+  "name": "مختبر الدنا الطبي - DNA Laboratory",
+  "description": "مختبر الدنا الطبي - دقة في الفحص، ثقة في النتائج، واهتمام بصحتك. DNA Laboratory official medical portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

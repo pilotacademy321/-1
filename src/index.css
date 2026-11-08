@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-brand-teal: #088395;
+    --color-brand-teal-deep: #0A4D68;
+    --color-brand-teal-dark: #053B50;
+    --color-brand-green: #10B981;
+    --color-brand-green-accent: #16A34A;
+    --color-brand-mint: #F0FDF9;
+  }
+
+  html[dir="rtl"] {
+    font-family: 'Cairo', system-ui, -apple-system, sans-serif;
+  }
+
+  html[dir="ltr"] {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+}
